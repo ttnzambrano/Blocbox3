@@ -1,0 +1,5 @@
+The Blocbox project was a different and new experince for me. The design process proved to be somehow difficult at the beginning, but it got better as time progressed. I found Git Hub the most difficult part of the process.
+Coming up with a design that is functional and attractive presented many challenges that tested my abilities as a developer.
+In the end the most rewarding part of the process was seeing the final product get deployed as a real website. Something that I would like to improve or perhaps change is the Blocbox Logo.
+
+
